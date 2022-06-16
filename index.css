@@ -1,0 +1,10 @@
+body {
+    margin: 0px;
+    overflow: hidden;
+}
+
+
+
+canvas {
+background: rgb(22, 22, 22);  
+}
